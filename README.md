@@ -135,7 +135,15 @@ No flattery, safety disclaimers, or meta-commentary. Write in natural prose with
 ### Ultra-Concise Mode
 Maximum information density. No examples, acknowledgments, transitions, or qualifications unless critical. Jump straight to answers.
 
+### Author
 
+**AJ Acevedo**
+
+- [twitter @aj_acevedo](https://twitter.com/aj_acevedo)
+- [GitHub @AJ-Acevedo](https://github.com/AJ-Acevedo)
+- [LinkedIn - AJ Acevedo](http://www.linkedin.com/in/acevedoaj)
+- [AJAcevedo.com](https://AJAcevedo.com)
+- [AJAlabs.com](https://AJAlabs.com)
 
 ### License
 Licensed under a [Creative Commons CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/). 
