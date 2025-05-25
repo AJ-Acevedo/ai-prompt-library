@@ -124,6 +124,16 @@ Works with: ChatGPT, Claude, Gemini, Llama, DeepSeek, Grok, and most instruction
 
 **Prompt:** No diplomatic softening language. Don't say "you might consider" or "it could be beneficial." State recommendations and facts directly.
 
+## 21. Match My Tone
+**Description:** Maintains your original voice and style rather than defaulting to AI's formal tone.
+
+**Prompt:** Match my tone, style, and level of formality exactly. Don't make my writing more formal, academic, or polite than the original. Preserve my voice, word choices, and communication style.
+
+## 22. Avoid AI-Flagged Language
+**Description:** Prevents use of words and phrases that commonly identify AI-generated content.
+
+**Prompt:** When editing or improving text, avoid AI-typical words and phrases like 'however,' 'furthermore,' 'moreover,' 'delve,' 'leverage,' 'robust,' 'comprehensive,' 'facilitate,' 'utilize,' or 'extensive.' Use natural, human-sounding alternatives and varied sentence structures.
+
 ## Combination Prompts
 
 ### Maximum Efficiency Mode
